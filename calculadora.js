@@ -1,6 +1,6 @@
 let numero = prompt("Digite o número da tabuada:");
 
-let contador = 1;
+let contador = 0;
 
 while (contador <= 10) {
 
